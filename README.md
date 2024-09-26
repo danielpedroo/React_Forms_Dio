@@ -36,7 +36,7 @@ Tela de registro:
 
 Tela de Esqueçi minha senha:
 
-![Recover](https://github.com/danielpedroo/React_Forms_Dio/blob/main/src/img/Register.png)
+![Recover](https://github.com/danielpedroo/React_Forms_Dio/blob/main/src/img/Recover.png)
 
 ## Instalação - Pacotes_Hooks
 
