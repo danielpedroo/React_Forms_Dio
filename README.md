@@ -21,7 +21,7 @@ Fique atento as validações ou seja, o email, a senha, este projeto trabalha co
 
 **IDE:** Vs_Code
 
-**Front-end:** React.js
+**Front-end:** React.Ts
 
 **Services:** Json
 
