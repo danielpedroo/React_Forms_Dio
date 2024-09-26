@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "email": "daniel.pereira@fatec.sp.gov.br",
+      "senha": "7375"
+    },
+    {
+      "id": 2,
+      "name": "Esther",
+      "email": "esther@fatec.sp.gov.br",
+      "senha": "737578"
+    }
+  ]
+}
