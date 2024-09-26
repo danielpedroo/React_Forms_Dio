@@ -32,11 +32,11 @@ O desafio do projeto consiste no desenvolvimento da tela de cadastro, ou seja im
 
 Tela de registro:
 
-![Register](https://github.com/danielpedroo/Forms_Dio-Trilha-React-3/blob/main/forms_dio/src/img/Register.png)
+![Register](https://github.com/danielpedroo/React_Forms_Dio/blob/main/src/img/Register.png)
 
 Tela de Esqueçi minha senha:
 
-![Recover](https://github.com/danielpedroo/Forms_Dio-Trilha-React-3/blob/main/forms_dio/src/img/Recover.png)
+![Recover](https://github.com/danielpedroo/React_Forms_Dio/blob/main/src/img/Register.png)
 
 ## Instalação - Pacotes_Hooks
 
@@ -103,7 +103,7 @@ npx json-server --watch db.json --port 8001
 
 Esse comando inicia o servidor no endereço http://localhost:8001, permitindo que sua aplicação React consuma os dados da API fake.
 
-![Json](https://github.com/danielpedroo/Forms_Dio-Trilha-React-3/blob/main/forms_dio/src/img/Json_Server.png)
+![Json](https://github.com/danielpedroo/React_Forms_Dio/blob/main/src/img/Json_Server.png)
 ## Rodando localmente
 
 Clone o projeto
